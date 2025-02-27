@@ -63,3 +63,4 @@ urllib3
 Werkzeug
 wrapt
 yfinance
+gunicorn 
