@@ -52,9 +52,9 @@ six
 soupsieve
 tensorboard
 tensorboard-data-server
-tensorflow-intel
+tensorflow
 tensorflow-io-gcs-filesystem
-tensorflow-intel
+tensorflow
 termcolor
 threadpoolctl
 typing_extensions
